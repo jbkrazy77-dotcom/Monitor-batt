@@ -61,5 +61,3 @@ O repositório possui workflow automático em `.github/workflows/release.yml` pa
 - O som usa `STREAM_ALARM` — toca mesmo no modo silencioso/vibrar. Em DnD total pode ser silenciado.
 - Há um `BootReceiver` para religar o serviço após reiniciar o aparelho. Em Xiaomi/Samsung/Huawei/Oppo libere "autostart" e "executar em background sem restrições" nas configurações de bateria.
 - Para mudar o limiar ou o intervalo do bip, edite `THRESHOLD` e `BEEP_INTERVAL_MS` em `BatteryService.java`.
-# Monitor-batt
-# Monitor-batt
